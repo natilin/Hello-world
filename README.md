@@ -1,4 +1,4 @@
 # Hello-world
 My test repo
 Hey evrybody!
-i test hre using in github
+I testing here using in Github
